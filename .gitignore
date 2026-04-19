@@ -3,3 +3,5 @@
 .fvm/
 /build
 /.dart_tool
+.flutter-plugins-dependencies
+.DS_Store
